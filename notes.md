@@ -1,0 +1,7 @@
+- Creative idea, sounds fun to play
+- Exact game mechanics (specific controls and balancing) have not been worked out yet -- something we'll need to do eventually.
+- Sketches of HUD look good to me
+- Honor Code and law check: all good
+- Abilities also need to be finalized and given precise mechanics
+- Harvard-Westlake theme is good -- any specific art directions?
+- What kinds of information does the app remember about the user -- what are the rewards for repeated playing?
