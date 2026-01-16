@@ -45,13 +45,13 @@ ALWAYS TRUE:
 - The speed at which Capture Progress goes towards either side is determined by the amount of players on point.
 ### Captured
 - Point becomes captured if Capture Progress is completed for either team. If it is taken by the enemy team, it goes straight to being captured for them, it never returns to Uncaptured state.
-- Contested: At least 1 player from each team on point, Objective Progress stops.
+- Contested: At least 1 player from each team on point, Objective Progress slows but still continues.
 - Uncontested: 
     - If no players, Objective Progress still increases for the team that has captured the point.
     - If only players from team that has captured, progress increases scaled by amount of players
     - If only players from the enemy team, Objective Progress stops and Capture Progress starts going to the enemy team.
 ### Overtime
-- If the point reaches 99% while being contested, the match goes into overtime, where it will remain at 99% until it stops being contested.
+- If Objective Progress reaches 99% while being contested, the match goes into overtime, where it will remain at 99% until it stops being contested.
 ### Win Condition
 - Once either team reaches 100% Objective Progress the match ends and the point goes to them.
 - Best of 3 overall scoring, with 3 different maps, one for each round. (Randomized order)
