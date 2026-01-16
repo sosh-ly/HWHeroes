@@ -1,0 +1,11 @@
+- I like the overall design and idea
+- I think picking a single game to use as a base would be good.
+- I think that Overwatch (OG) UI would suit this game the best.
+- For example, WASD to move, special (press shift) tactical (press e), ADS with right click, shooting with left click
+- Characters could have specific speed, jump height, sizes, etc but limiting the amount of custom animations/effects/weapons that each needs to a primary, a special and a tactical ability would streamline the planning and dev process
+- Since not many people are good at modeling in this class, using voxel modeling like this 
+https://www.sandbox.game/en/assets/npc-scientist/8a97030f-0e22-4b70-8897-dc357d4d6e73/
+ Would be good and simple. 
+- I (or you probably) could whip up a character base in Blockbench that people could add details to for each character
+- Doing this in Unity would probably make the most sense. There are some good multiplayer tutorials
+- We could scan areas at HW with Scaniverse mobile app for maps, upload those into Unity and make mockups with cubes for sizing/distances and then add texture and props to complete it
