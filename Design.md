@@ -13,6 +13,7 @@ https://drive.google.com/file/d/1L-IXy8-kMBXeceHR1sNL-zdUtFbFaQgZ/view?usp=drive
 
 ## 2. Purpose
 - Provide an entertaining but school friendly online multiplayer game with references to people and locations that Harvard-Westlake students will recognize, making it potentially more appealing.
+- Gameplay focused instead of points progression system
 - Audience: Harvard-Westlake students who enjoy video games.
 - Appeal over other online games (In School): No guns or violence, and is part of a school project, which gives students justification for playing in school.
 - Appeal out of school: Harvard-Westlake theming can provide fun from getting to play a teacher you like (or joy from fighting against a teacher you don’t).
@@ -22,7 +23,7 @@ https://drive.google.com/file/d/1L-IXy8-kMBXeceHR1sNL-zdUtFbFaQgZ/view?usp=drive
 - This game will NOT depict death or killing of any kind, players may “fail” and be sent back to the spawn room, but this is not death, and they return after a few seconds.
 - This game does not feature minors, all characters are teachers or faculty and are adults.
 
-# Design
+# Gameplay Design
 Disclaimer: All design elements are subject to change, if something doesn’t seem right to you, please say something! It won’t hurt feelings, we’re here to make a good product.
 
 If there are brackets around something, (ex: “The floor will be \[red/blue\]”) this indicates that an idea has been narrowed down to a few options but not decided yet. This will be addressed later in the design process.
@@ -102,3 +103,77 @@ ALWAYS TRUE:
 - Overall the HUD shouldn’t be too distracting or take up too much of the screen.
 - There will be a main menu and log-in system (required) and some way to add friends and invite them to a party.
 - Either in a party or alone, the player should be able to queue up while still browsing around.
+
+Brainstorming stuff
+- Bus lobby/main menu
+- Office background changes with character
+- Breakable terrain and buildings to create more open spaces
+- Characters have "synergy abilitites" that get unlocked if theyre on a team together (personal)
+- Figure out which teachers are popular
+- Gambling for cosmetics
+- Achievements (things to do with each teacher perhaps)
+- Cafeteria store design
+- Lots of game modes!
+- Team sizes need to be equal, you can queue with your party to get in a game with the same amount of people
+- Middle school training arena
+- Bot toggles
+- 1v1s?
+- Not photorealistic, performance over visuals if the choice is needed
+- Target hardware is "average" student laptop
+- Cap overtime at like 2 minutes or something
+- Keep track of stats on characters, but level up overall
+- Add detail options for worse running computers
+- Involve teachers with their traits and stuff
+- Survey students to see perceptions of teachers and popularity
+- Cel shader
+- See enemy's health if you've hit them recently, toggles for teammates health
+- Slight interactive physics like pushing backpacks, trash, etc
+- emotes/voicelines from teachers
+
+Visuals & ideas
+- Cel shader
+- Involve teachers with their traits and stuff
+- Survey students to see perceptions of teachers and popularity
+Logistics
+Target hardware is "average" student laptop
+Add detail options for worse running computers
+ Cap overtime at like 2 minutes or something (max 30 min matches)
+Not photorealistic, performance over visuals if the choice is needed
+See enemy's health if you've hit them recently, toggles for teammates health	
+Mode / gameplay
+3v3, 6v6 / 5v5, 1v1
+Lots of game modes!
+Team sizes need to be equal, you can queue with your party to get in a game with the same amount of people
+Bots toggles, can play w/bots or not if not enough ppl
+
+Characters
+PERSONAL PROGRESSION
+Gambling for cosmetics
+Achievements (things to do with each teacher perhaps)
+Keep track of character stats
+Level up w/player account
+STRATEGY / BALANCE
+Characters have "synergy abilitites" that get unlocked if theyre on a team together (personal)
+INDIVIDUAL
+Mr. Nealis truck ult
+Map Stuff
+Fighter maps
+Rugby to FH cart
+Field to the Gym 
+Basic lobbies
+Bus lobby/main menu (respawn/load screens)
+Middle school training arena
+Office background changes with character in select screen
+Cafeteria cosmetic store
+
+Terrain Physics
+Breakable terrain and buildings to create more open spaces
+Slight interactive physics like pushing backpacks, trash, etc
+
+Work on later
+- Lore(short cutscenes or descriptions)
+- Banning characters at the start of every game
+- Interactive maps/ random events (students running through areas)
+
+
+Implementation
