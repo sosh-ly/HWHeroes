@@ -6,6 +6,12 @@
 - Harvard-Westlake theme is good -- any specific art directions?
 - What kinds of information does the app remember about the user -- what are the rewards for repeated playing?
 
+CHASE'S NOTES, DESIGN REVIEW PART 2
+
+- I like the new design ideas (point capture, cart)
+- I foresee myself working a lot on the 3D rendering -- what direction did you want to take that? Emphasis on photorealism? Some kind of stylization? For this project, I'm inclined to say largely photorealistic but with some obvious stylizations so the user isn't expecting complete realism. Complete realism would be too hard to make.
+- I would also like to know the target hardware here, as that will greatly affect rendering processes.
+
 
 dawson- 
 great idea, seems really fun
